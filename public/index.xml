@@ -10,6 +10,22 @@
 		
 		
 		
+			<lastBuildDate>Wed, 03 Jun 2026 19:01:50 -0300</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Com Que Fim?</title>
+				<link>http://localhost:1313/posts/com-que-fim/</link>
+				<pubDate>Wed, 03 Jun 2026 19:01:50 -0300</pubDate>
+				<guid>http://localhost:1313/posts/com-que-fim/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Agora me parecia ultimamente meio que um milagre negro que as pessoas chegassem mesmo a dar grande importância a um tema ou um objetivo e continuassem assim por anos a fio. Pudessem dedicar a vida inteira a isso. Me parecia admirável e ao mesmo tempo patético. Nós estamos todos morrendo de vontade de entregar a nossa vida a alguma coisa, de repente. Deus ou Satã, política ou gramática, topologia ou filatelia — o objeto parecia um detalhe pra essa disposição de se entregar totalmente. A jogos ou agulhas, a outra pessoa. Algo de patético nisso. Uma fuga-de que assume a forma de um mergulho-em. Fuga de quê, exatamente? Desses cômodos placidamente preenchidos de excremento e de carne? Com que fim?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Ola Blog</title>
+				<link>http://localhost:1313/posts/ola-blog/</link>
+				<pubDate>Wed, 03 Jun 2026 18:06:06 -0300</pubDate>
+				<guid>http://localhost:1313/posts/ola-blog/</guid>
+				<description>&lt;p&gt;Olá blog.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

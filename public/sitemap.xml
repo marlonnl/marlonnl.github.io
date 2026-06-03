@@ -4,11 +4,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/com-que-fim/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/literatura/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/trecho/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2026-06-03T18:06:06-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/daily/</loc>
+    <lastmod>2026-06-03T18:06:06-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ola-blog/</loc>
+    <lastmod>2026-06-03T18:06:06-03:00</lastmod>
   </url>
 </urlset>

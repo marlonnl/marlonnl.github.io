@@ -3,3 +3,15 @@ locale = 'pt-br'
 title = 'apupos'
 
 theme = 'paper'
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+color = 'linen'
+
+instagram = 'marlonn'
+rss = true
+
+bio = 'coleção de links e notas'
