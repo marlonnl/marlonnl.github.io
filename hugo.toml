@@ -18,3 +18,22 @@ instagram = 'marlonn'
 rss = true
 
 bio = 'coleção de links e notas'
+
+
+[[menus.main]]
+  identifier = "categorias"
+  name = "categorias"
+  url = "/categories/"
+  weight = 20
+
+[[menus.main]]
+  identifier = "tags"
+  name = "tags"
+  url = "/tags/"
+  weight = 30
+
+[[menus.main]]
+  identifier = "sobre"
+  name = "sobre"
+  url = "/about/"
+  weight = 10
