@@ -14,7 +14,7 @@
 		
 			<atom:link href="http://localhost:1313/categories/daily/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Ola Blog</title>
+				<title>Ola blog</title>
 				<link>http://localhost:1313/posts/ola-blog/</link>
 				<pubDate>Wed, 03 Jun 2026 18:06:06 -0300</pubDate>
 				<guid>http://localhost:1313/posts/ola-blog/</guid>

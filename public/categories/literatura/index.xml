@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Literatura on apupos</title>
+		<link>http://localhost:1313/categories/literatura/</link>
+		<description>Recent content in Literatura on apupos</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 04 Jun 2026 16:04:15 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/literatura/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nove Meses</title>
+				<link>http://localhost:1313/posts/nove-meses/</link>
+				<pubDate>Thu, 04 Jun 2026 16:04:15 -0300</pubDate>
+				<guid>http://localhost:1313/posts/nove-meses/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Olham-se ambos com simpatia, vê-se que estão contentes por se terem reencontrado depois da longa ausência, e é Fernando Pessoa quem primeiro fala, Soube que me foi visitar, eu não estava, mas disseram-me quando cheguei, e Ricardo Reis respondeu assim, Pensei que estivesse, pensei que nunca de lá saísse, Por enquanto saio, ainda tenho uns oito meses para circular à vontade, explicou Fernando Pessoa, Oito meses porquê, perguntou Ricardo Reis, e Fernando Pessoa esclareceu a informação, Contas certas, no geral e em média, são nove meses, tantos quantos os que andámos na barriga das nossas mães, acho que é por uma questão de equilíbrio, antes de nascermos ainda não nos podem ver mas todos os dias pensam em nós, depois de morrermos deixam de poder ver-nos e todos os dias nos vão esquecendo um pouco, salvo casos excepcionais nove meses é quanto basta para o total olvido [&amp;hellip;]&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Com que fim?</title>
+				<link>http://localhost:1313/posts/com-que-fim/</link>
+				<pubDate>Wed, 03 Jun 2026 19:01:50 -0300</pubDate>
+				<guid>http://localhost:1313/posts/com-que-fim/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Agora me parecia ultimamente meio que um milagre negro que as pessoas chegassem mesmo a dar grande importância a um tema ou um objetivo e continuassem assim por anos a fio. Pudessem dedicar a vida inteira a isso. Me parecia admirável e ao mesmo tempo patético. Nós estamos todos morrendo de vontade de entregar a nossa vida a alguma coisa, de repente. Deus ou Satã, política ou gramática, topologia ou filatelia — o objeto parecia um detalhe pra essa disposição de se entregar totalmente. A jogos ou agulhas, a outra pessoa. Algo de patético nisso. Uma fuga-de que assume a forma de um mergulho-em. Fuga de quê, exatamente? Desses cômodos placidamente preenchidos de excremento e de carne? Com que fim?&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

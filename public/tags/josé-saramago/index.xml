@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>José Saramago on apupos</title>
+		<link>http://localhost:1313/tags/jos%C3%A9-saramago/</link>
+		<description>Recent content in José Saramago on apupos</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 04 Jun 2026 16:04:15 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/jos%C3%A9-saramago/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nove Meses</title>
+				<link>http://localhost:1313/posts/nove-meses/</link>
+				<pubDate>Thu, 04 Jun 2026 16:04:15 -0300</pubDate>
+				<guid>http://localhost:1313/posts/nove-meses/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -12,7 +12,16 @@
     <loc>http://localhost:1313/posts/com-que-fim/</loc>
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/literatura/</loc>
+    <loc>http://localhost:1313/tags/david-foster-wallace/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gra%C3%A7a-infinta/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infinite-jest/</loc>
+    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/literatura/</loc>
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -21,7 +30,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/trecho/</loc>
+    <loc>http://localhost:1313/tags/trecho/</loc>
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>

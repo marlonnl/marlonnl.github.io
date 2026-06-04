@@ -1,8 +1,11 @@
 baseURL = 'https://marlonnl.github.io/'
 locale = 'pt-br'
 title = 'apupos'
-
 theme = 'paper'
+
+[hugo]
+titleCaseStyle = 'none'
+capitalization = 'none'
 
 [taxonomies]
 tag = "tags"
