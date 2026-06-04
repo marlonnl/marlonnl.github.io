@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 03 Jun 2026 19:01:50 -0300</lastBuildDate>
+			<lastBuildDate>Thu, 04 Jun 2026 16:04:15 -0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nove Meses</title>
+				<link>http://localhost:1313/posts/nove-meses/</link>
+				<pubDate>Thu, 04 Jun 2026 16:04:15 -0300</pubDate>
+				<guid>http://localhost:1313/posts/nove-meses/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Olham-se ambos com simpatia, vê-se que estão contentes por se terem reencontrado depois da longa ausência, e é Fernando Pessoa quem primeiro fala, Soube que me foi visitar, eu não estava, mas disseram-me quando cheguei, e Ricardo Reis respondeu assim, Pensei que estivesse, pensei que nunca de lá saísse, Por enquanto saio, ainda tenho uns oito meses para circular à vontade, explicou Fernando Pessoa, Oito meses porquê, perguntou Ricardo Reis, e Fernando Pessoa esclareceu a informação, Contas certas, no geral e em média, são nove meses, tantos quantos os que andámos na barriga das nossas mães, acho que é por uma questão de equilíbrio, antes de nascermos ainda não nos podem ver mas todos os dias pensam em nós, depois de morrermos deixam de poder ver-nos e todos os dias nos vão esquecendo um pouco, salvo casos excepcionais nove meses é quanto basta para o total olvido [&amp;hellip;]&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Com que fim?</title>
 				<link>http://localhost:1313/posts/com-que-fim/</link>

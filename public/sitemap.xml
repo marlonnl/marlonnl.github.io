@@ -4,10 +4,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/jos%C3%A9-saramago/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/literatura/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/nove-meses/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/o-ano-da-morte-de-ricardo-reis/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trecho/</loc>
+    <lastmod>2026-06-04T16:04:15-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/com-que-fim/</loc>
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
@@ -19,18 +40,6 @@
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/infinite-jest/</loc>
-    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/literatura/</loc>
-    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-03T19:01:50-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/trecho/</loc>
     <lastmod>2026-06-03T19:01:50-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blog/</loc>
